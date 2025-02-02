@@ -1,8 +1,12 @@
-# Aprender kotlin 🚀
-## 🔥 Porque aprendere kotlin?
-### He decidido que Kotlin es una buena apuesta para el futuro, ya sea por su hanelado multiplatform en crecimiento y el mismo entusiasmo con el que ha sido recibido por java developers.
+# Aprender Kotlin 🚀
+
+## 🔥 ¿Por qué aprender Kotlin?
+### He decidido que Kotlin es una buena apuesta para el futuro, ya sea por su manejo multiplataforma en crecimiento y el mismo entusiasmo con el que ha sido recibido por los desarrolladores de Java.
+
 ## Cualidades que me gustan 📌
-1. totalmente interoperable con java
-2. Sintaxis clara, en java son indispensables para mi librerias como lombok, precisamente por la cantidad abrumadora de codigo que hay que realizar en java, pero en Kotlin esto se ve reducido, aun asi como en el primer punto, tendre al alcance las herramientas y librerias y frameworks de Java.
-3. Seguridad en Null pointers, detesto mucho que en java todo parece ir bien y derrepente todo se rompe, sin una clara forma de saber donde esta el dano, (la mayoria de veces esto es Null Pointer).
-4. y finalmente, ya estamos en un desarrollo multiplataforma, no al 100, pero es una buena apuesta para mi.
+1. **Totalmente interoperable con Java**: Puedes usar todas las herramientas, bibliotecas y frameworks de Java en Kotlin sin problemas.
+2. **Sintaxis clara**: En Java, librerías como Lombok son indispensables para mí debido a la cantidad abrumadora de código que hay que escribir. En Kotlin, esto se reduce significativamente, y aún así, tengo acceso a todas las herramientas y librerías de Java.
+3. **Seguridad en Null Pointers**: Detesto mucho que en Java todo parece ir bien y de repente todo se rompe, sin una clara forma de saber dónde está el daño (la mayoría de las veces es un Null Pointer). Kotlin ayuda a evitar estos errores.
+4. **Desarrollo multiplataforma**: Aunque no estamos al 100%, Kotlin es una buena apuesta para el desarrollo multiplataforma.
+
+---
