@@ -15,7 +15,7 @@ fun main() {
         println("It's cold! 🌨️")
     }
 }
-
+```
 
 ### For. usado para iterar sobre rangos, colecciones, o arrays.
 
@@ -25,7 +25,7 @@ fun main() {
         println("Number: $i")
     }
 }
-
+```
 ### While. utilizado para iterar sobre datos tambien pero este se basa en una condicion en lugar de decirle cuantas veces explicitas queremos que lo haga y tambien tiene do-while que solo es una forma mas de usarlo.
 
 ```kotlin
@@ -43,7 +43,7 @@ fun main() {
         i++
     } while (i <= 5)
 }
-
+```
 ### When es similar al switch que hay en otros lenguajes, se usa para dar una respuesta segun un rango de posibilidades.
 
 ```kotlin
